@@ -5,7 +5,6 @@
     Ltc: LiR7yDj1Hv4aE7V3bZYHmAN4Aymtq1uuHA <br>
     Discord: elgato#8704 <br>
 <br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/443790741181956126?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/443790741181956126)
 <div align="center">
 [Email Me](mailto:b00micek@protonmail.com)
 </div>
