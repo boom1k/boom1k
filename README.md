@@ -8,6 +8,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <div align="center">
 [Email Me](mailto:b00micek@protonmail.com)
 </div>
