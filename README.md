@@ -4,7 +4,7 @@
     Btc: bc1qtq8yhcx3rstl88f35hed75nu453rgsw66x93sx <br>
     Ltc: LiR7yDj1Hv4aE7V3bZYHmAN4Aymtq1uuHA <br>
     Discord: elgato#8704 <br>
-    <img src="https://lanyard-profile-readme.vercel.app/api/443790741181956126?bg=00000000">
+    <img  align="center" src="https://lanyard-profile-readme.vercel.app/api/443790741181956126?bg=00000000">
 <br>
 <div align="center">
 [Email Me](mailto:b00micek@protonmail.com)
