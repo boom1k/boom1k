@@ -6,6 +6,8 @@
     Discord: elgato#8704 <br>
     <img align='right' src="https://lanyard-profile-readme.vercel.app/api/443790741181956126?bg=00000000">
 <br>
+<br>
+<br>
 <div align="center">
 [Email Me](mailto:b00micek@protonmail.com)
 </div>
