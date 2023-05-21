@@ -3,8 +3,8 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Btc: bc1qtq8yhcx3rstl88f35hed75nu453rgsw66x93sx <br>
     Ltc: LiR7yDj1Hv4aE7V3bZYHmAN4Aymtq1uuHA <br>
-    Discord: elgato#8704
-[[Discord Presence](https://lanyard.cnrad.dev/api/443790741181956126)](https://discord.com/users/443790741181956126)
+    Discord: elgato#8704 <br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:443790741181956126)](https://discord.com/users/:443790741181956126)
 <br>
 <div align="center">
 
