@@ -7,7 +7,7 @@
 <br>
 </div>
 <div align="center">
-<img align='left' src="https://lanyard-profile-readme.vercel.app/api/1083842719715180685?bg=00000000"> <br><br><br>
+<img align='left' src="https://lanyard-profile-readme.vercel.app/api/1083842719715180685?bg=00000000idleMessage=:Probably dying fr"> <br><br><br>
 [Email Me](mailto:b00micek@protonmail.com)
 </div>
 <br>
