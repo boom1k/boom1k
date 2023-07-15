@@ -3,7 +3,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Btc: bc1qtq8yhcx3rstl88f35hed75nu453rgsw66x93sx <br>
     Ltc: LiR7yDj1Hv4aE7V3bZYHmAN4Aymtq1uuHA <br>
-    Discord: elgato#8704 <br>
+    Discord: boom1k_ <br>
 <br>
 </div>
 <div align="center">
