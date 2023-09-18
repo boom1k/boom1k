@@ -12,6 +12,8 @@
 <br>
 </p>    
 <br>
+<br>
+<br>
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
