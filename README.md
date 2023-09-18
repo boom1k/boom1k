@@ -113,8 +113,6 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boom1k&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=boom1k&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boom1k&show_icons=true&theme=algolia&border_radius=20) -->
