@@ -1,8 +1,8 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 boom1k </h1>
 <div align="center">
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Btc: bc1qtq8yhcx3rstl88f35hed75nu453rgsw66x93sx <br>
-    Ltc: LiR7yDj1Hv4aE7V3bZYHmAN4Aymtq1uuHA <br>
+    Btc:  <br>
+    Ltc:  <br>
     Discord: boom1k_ <br>
 <br>
 </div>
