@@ -8,7 +8,7 @@
 <img align='center' src="https://komarev.com/ghpvc/?username=boom1k&color=ff69b4&style=for-the-badge&label=Profile+Visits">
 </div> <br>
 <div align="center">
-<img align='center' src="https://lanyard-profile-readme.vercel.app/api/1083842719715180685?idleMessage=<3&#160Lua&#160fr!"> <br><br><br>
+<img align='center' src="https://lanyard-profile-readme.vercel.app/api/1083842719715180685?idleMessage=lua hater!"> <br><br><br>
     
 </div>
 <br>
